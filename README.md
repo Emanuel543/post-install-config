@@ -111,3 +111,20 @@ Admin Panel -> Manage -> SLA
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/568e8Yo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Help Topics
+   
+Admin Panel -> Manage -> Help Topics
+
+-Business Critical Outage
+-Personal Computer Issue
+-Equipment Request
+-Password Reset
+
+
+</p>
+<br />
